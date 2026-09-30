@@ -174,8 +174,8 @@ def apply_correction(line, correction):
             correction_matrix = ROTATIONS[rotation_name]
 
             final_matrix = multiply_matrix(
-                correction_matrix,
-                final_matrix
+                final_matrix,
+                correction_matrix
             )
 
     else:

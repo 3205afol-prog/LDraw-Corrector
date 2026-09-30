@@ -34,10 +34,6 @@
         "offset": [0, -8, 0]
     },
 
-    "7302.dat": {
-        "rotation": "X180",
-        "offset": [0, -8, 16]
-    },
 
     "5264.dat": {
         "rotation": "X180",
@@ -60,10 +56,6 @@
         "offset": null
     },
 
-    "4585.dat": {
-        "rotation": "Y180",
-        "offset": [0, 16, 0]
-    },
 
     "7904.dat": {
         "rotation": "X180",
@@ -73,6 +65,26 @@
     "5852.dat": {
         "rotation": "X180",
         "offset": [0, 0, 0]
+    },
+
+    "4585.dat": {
+        "rotation": "Y180",
+        "offset": [0, 48, 0]
+    },
+
+    "7674.dat": {
+        "rotation": "X180",
+        "offset": [4, 0, 0]
+    },
+
+    "7302.dat": {
+        "rotation": "X180",
+        "offset": [0, -20, 20]
+    },
+    
+    "66909.dat": {
+        "rotation": null,
+        "offset": [0, 16, 0]
     }
 
 }
