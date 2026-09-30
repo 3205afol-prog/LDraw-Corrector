@@ -2,5 +2,52 @@
     "7828.dat": {
         "rotation": "X180",
         "offset": [0, -8, 0]
+    },
+
+    "11010.dat": {
+            "rotation": null,
+            "offset": [0, -4, 0]
+        },
+
+    "7825.dat": {
+            "rotation": "X180",
+            "offset": null
+    },
+
+    "7827.dat": {
+            "rotation": ["X180", "Y180"],
+            "offset": null
+    },
+
+    "7826.dat": {
+            "rotation": ["X180", "Y270"],
+            "offset": null
+    },
+
+    "3396.dat": {
+        "rotation": ["X180", "Y90"],
+        "offset": [0, -8, 0]
+    },
+
+    "5264.dat": {
+        "rotation": "X180",
+        "offset": [0, -8, 0]
+    },
+
+    "7835.dat": {
+        "rotation": "X180",
+        "offset": [0, -8, 0]
+    },
+
+
+    "24085.dat": {
+        "rotation": "Z180",
+        "offset": null
+    },
+
+    "4585.dat": {
+        "rotation": "X180",
+        "offset": [0, -8, 0]
     }
+
 }
