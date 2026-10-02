@@ -68,8 +68,8 @@
     },
 
     "4585.dat": {
-        "rotation": "Y180",
-        "offset": [0, 48, 0]
+        "rotation": "X180",
+        "offset": [0, -8, 0]
     },
 
     "7674.dat": {
