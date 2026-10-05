@@ -20,7 +20,7 @@
     },
 
     "7827.dat": {
-            "rotation": ["X180", "Y180"],
+            "rotation": "X180",
             "offset": null
     },
 
