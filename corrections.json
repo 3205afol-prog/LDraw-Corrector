@@ -85,6 +85,11 @@
     "66909.dat": {
         "rotation": null,
         "offset": [0, 20, 0]
+    },
+
+    "35287.dat": {
+        "rotation": null,
+        "offset": [0, -34, 5]
     }
 
 }
